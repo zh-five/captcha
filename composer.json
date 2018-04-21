@@ -1,0 +1,7 @@
+{
+    "name": "zh-five/captcha",
+    "description": "php验证码",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
